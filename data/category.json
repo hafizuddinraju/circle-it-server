@@ -1,0 +1,44 @@
+[
+    {
+      "_id": "01",
+      "picture": "https://d3eeke16mv0lt7.cloudfront.net/sites/default/files/styles/article_hero_image/public/html5-mobile-app-native-hybrid-pros-cons.jpg?itok=f2OysLvu",
+      "name": "HTML5",
+      "rating": 5
+      
+    },
+    {
+      "_id": "02",
+      "picture": "https://www.analyticsinsight.net/wp-content/uploads/2022/03/bh1-1024x725-1.jpg",
+      "name": "C++",
+      "rating": 4.5
+      
+    },
+    {
+      "_id": "03",
+      "picture": "https://www.trio.dev/hubfs/Imported_Blog_Media/python_logo.jpg",
+      "name": "Python",
+      "rating": 5
+      
+    },
+    {
+      "_id": "04",
+      "picture": "https://visme.co/blog/wp-content/uploads/2021/10/what-is-graphic-design-header-1200.png",
+      "name": "Graphic Design",
+      "rating": 4.5
+      
+    },
+    {
+      "_id": "05",
+      "picture": "https://mediablog.cdnpk.net/sites/9/2021/12/What-is-the-Difference-Between-Motion-Graphics-and-Animation-1280x720px.jpg",
+      "name": "Motion Graphics",
+      "rating": 5
+      
+    },
+    {
+      "_id": "06",
+      "picture": "https://www.developer.com/wp-content/uploads/2021/09/Java-tutorials.jpg",
+      "name": "JAVA",
+      "rating": 5
+      
+    }
+  ]
